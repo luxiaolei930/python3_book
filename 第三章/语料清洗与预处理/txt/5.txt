@@ -1,0 +1,513 @@
+<div class="hd">
+<a class="" href="https://movie.douban.com/subject/1291875/">
+<span class="title">阳光灿烂的日子</span>
+<span class="other"> / In the Heat of the Sun</span>
+</a>
+</div><div class="bd">
+<p class="">
+                            导演: 姜文 Wen Jiang   主演: 夏雨 Yu Xia / 宁静 Jing Ning / 陶虹 Hong Tao<br/>
+                            1994 / 中国大陆 中国香港 / 剧情 爱情
+                        </p>
+<div class="star">
+<span class="rating45-t"></span>
+<span class="rating_num" property="v:average">8.8</span>
+<span content="10.0" property="v:best"></span>
+<span>437627人评价</span>
+</div>
+<p class="quote">
+<span class="inq">一场华丽的意淫。</span>
+</p>
+</div><div class="hd">
+<a class="" href="https://movie.douban.com/subject/1291999/">
+<span class="title">重庆森林</span>
+<span class="title"> / 重慶森林</span>
+<span class="other"> / Chungking Express</span>
+</a>
+<span class="playable">[可播放]</span>
+</div><div class="bd">
+<p class="">
+                            导演: 王家卫 Kar Wai Wong   主演: 林青霞 Brigitte Lin / 金城武 Takeshi K...<br/>
+                            1994 / 中国香港 / 剧情 爱情
+                        </p>
+<div class="star">
+<span class="rating45-t"></span>
+<span class="rating_num" property="v:average">8.7</span>
+<span content="10.0" property="v:best"></span>
+<span>550024人评价</span>
+</div>
+<p class="quote">
+<span class="inq">寂寞没有期限。</span>
+</p>
+</div><div class="hd">
+<a class="" href="https://movie.douban.com/subject/26799731/">
+<span class="title">请以你的名字呼唤我</span>
+<span class="title"> / Call Me by Your Name</span>
+<span class="other"> / 以你的名字呼唤我(港 / 台) </span>
+</a>
+</div><div class="bd">
+<p class="">
+                            导演: 卢卡·瓜达尼诺 Luca Guadagnino   主演: 艾米·汉莫 Armie Hammer / ...<br/>
+                            2017 / 意大利 法国 巴西 美国 荷兰 德国 / 剧情 爱情 同性
+                        </p>
+<div class="star">
+<span class="rating45-t"></span>
+<span class="rating_num" property="v:average">8.9</span>
+<span content="10.0" property="v:best"></span>
+<span>421039人评价</span>
+</div>
+<p class="quote">
+<span class="inq">沉醉在电影的情感和视听氛围中无法自拔。</span>
+</p>
+</div><div class="hd">
+<a class="" href="https://movie.douban.com/subject/1297630/">
+<span class="title">第六感</span>
+<span class="title"> / The Sixth Sense</span>
+<span class="other"> / 灵异第六感  /  鬼眼</span>
+</a>
+<span class="playable">[可播放]</span>
+</div><div class="bd">
+<p class="">
+                            导演: M·奈特·沙马兰 M. Night Shyamalan   主演: 布鲁斯·威利斯 Bruce Wi...<br/>
+                            1999 / 美国 / 剧情 悬疑 惊悚
+                        </p>
+<div class="star">
+<span class="rating45-t"></span>
+<span class="rating_num" property="v:average">8.9</span>
+<span content="10.0" property="v:best"></span>
+<span>376605人评价</span>
+</div>
+<p class="quote">
+<span class="inq">深入内心的恐怖，出人意料的结局。</span>
+</p>
+</div><div class="hd">
+<a class="" href="https://movie.douban.com/subject/3011235/">
+<span class="title">哈利·波特与死亡圣器(下)</span>
+<span class="title"> / Harry Potter and the Deathly Hallows: Part 2</span>
+<span class="other"> / 哈利波特7：死神的圣物2(港 / 台) </span>
+</a>
+<span class="playable">[可播放]</span>
+</div><div class="bd">
+<p class="">
+                            导演: 大卫·叶茨 David Yates   主演: 丹尼尔·雷德克里夫 Daniel Radcliffe...<br/>
+                            2011 / 美国 英国 / 奇幻 冒险
+                        </p>
+<div class="star">
+<span class="rating45-t"></span>
+<span class="rating_num" property="v:average">8.8</span>
+<span content="10.0" property="v:best"></span>
+<span>505634人评价</span>
+</div>
+<p class="quote">
+<span class="inq">10年的完美句点。</span>
+</p>
+</div><div class="hd">
+<a class="" href="https://movie.douban.com/subject/25814705/">
+<span class="title">小森林 夏秋篇</span>
+<span class="title"> / リトル・フォレスト 夏・秋</span>
+<span class="other"> / 小森食光 / 夏秋篇(台) </span>
+</a>
+<span class="playable">[可播放]</span>
+</div><div class="bd">
+<p class="">
+                            导演: 森淳一 Junichi Mori   主演: 桥本爱 Ai Hashimoto / 三浦贵大 Takahir...<br/>
+                            2014 / 日本 / 剧情
+                        </p>
+<div class="star">
+<span class="rating45-t"></span>
+<span class="rating_num" property="v:average">9.0</span>
+<span content="10.0" property="v:best"></span>
+<span>281831人评价</span>
+</div>
+<p class="quote">
+<span class="inq">那些静得只能听见呼吸的日子里，你明白孤独即生活。</span>
+</p>
+</div><div class="hd">
+<a class="" href="https://movie.douban.com/subject/10777687/">
+<span class="title">7号房的礼物</span>
+<span class="title"> / 7번방의 선물</span>
+<span class="other"> / 戆爸的礼物(港)  /  7号囚房的礼物</span>
+</a>
+</div><div class="bd">
+<p class="">
+                            导演: 李焕庆 Hwan-kyeong Lee   主演: 柳承龙 Seung-yong Ryoo / 朴信惠 Shi...<br/>
+                            2013 / 韩国 / 剧情 喜剧 家庭
+                        </p>
+<div class="star">
+<span class="rating45-t"></span>
+<span class="rating_num" property="v:average">8.9</span>
+<span content="10.0" property="v:best"></span>
+<span>348626人评价</span>
+</div>
+<p class="quote">
+<span class="inq">《我是山姆》的《美丽人生》。</span>
+</p>
+</div><div class="hd">
+<a class="" href="https://movie.douban.com/subject/21318488/">
+<span class="title">消失的爱人</span>
+<span class="title"> / Gone Girl</span>
+<span class="other"> / 失踪的女孩  /  失踪女孩</span>
+</a>
+<span class="playable">[可播放]</span>
+</div><div class="bd">
+<p class="">
+                            导演: 大卫·芬奇 David Fincher   主演: 本·阿弗莱克 Ben Affleck / 罗莎蒙...<br/>
+                            2014 / 美国 / 剧情 犯罪 悬疑 惊悚
+                        </p>
+<div class="star">
+<span class="rating45-t"></span>
+<span class="rating_num" property="v:average">8.7</span>
+<span content="10.0" property="v:best"></span>
+<span>619310人评价</span>
+</div>
+<p class="quote">
+<span class="inq">年度最佳date movie。</span>
+</p>
+</div><div class="hd">
+<a class="" href="https://movie.douban.com/subject/1865703/">
+<span class="title">红辣椒</span>
+<span class="title"> / パプリカ</span>
+<span class="other"> / 盗梦侦探  /  帕布莉卡</span>
+</a>
+</div><div class="bd">
+<p class="">
+                            导演: 今敏 Satoshi Kon   主演: 林原惠美 Megumi Hayashibara / 江守彻 Toru...<br/>
+                            2006 / 日本 / 动画 悬疑 科幻 惊悚
+                        </p>
+<div class="star">
+<span class="rating45-t"></span>
+<span class="rating_num" property="v:average">9.0</span>
+<span content="10.0" property="v:best"></span>
+<span>262660人评价</span>
+</div>
+<p class="quote">
+<span class="inq">梦的勾结。</span>
+</p>
+</div><div class="hd">
+<a class="" href="https://movie.douban.com/subject/3072124/">
+<span class="title">玛丽和马克思</span>
+<span class="title"> / Mary and Max</span>
+<span class="other"> / 巧克力情缘(台)  /  同是天涯寂寞客</span>
+</a>
+<span class="playable">[可播放]</span>
+</div><div class="bd">
+<p class="">
+                            导演: 亚当·艾略特 Adam Elliot   主演: 托妮·科莱特 Toni Collette / 菲利...<br/>
+                            2009 / 澳大利亚 / 剧情 喜剧 动画
+                        </p>
+<div class="star">
+<span class="rating45-t"></span>
+<span class="rating_num" property="v:average">8.9</span>
+<span content="10.0" property="v:best"></span>
+<span>323106人评价</span>
+</div>
+<p class="quote">
+<span class="inq">你是我最好的朋友，你是我唯一的朋友 。</span>
+</p>
+</div><div class="hd">
+<a class="" href="https://movie.douban.com/subject/1296339/">
+<span class="title">爱在黎明破晓前</span>
+<span class="title"> / Before Sunrise</span>
+<span class="other"> / 情留半天(港)  /  爱在黎明破晓时(台)</span>
+</a>
+<span class="playable">[可播放]</span>
+</div><div class="bd">
+<p class="">
+                            导演: 理查德·林克莱特 Richard Linklater   主演: 伊桑·霍克 Ethan Hawke ...<br/>
+                            1995 / 美国 奥地利 瑞士 / 剧情 爱情
+                        </p>
+<div class="star">
+<span class="rating45-t"></span>
+<span class="rating_num" property="v:average">8.8</span>
+<span content="10.0" property="v:best"></span>
+<span>401398人评价</span>
+</div>
+<p class="quote">
+<span class="inq">缘分是个连绵词，最美不过一瞬。</span>
+</p>
+</div><div class="hd">
+<a class="" href="https://movie.douban.com/subject/25814707/">
+<span class="title">小森林 冬春篇</span>
+<span class="title"> / リトル・フォレスト 冬・春</span>
+<span class="other"> / 小森食光 / 冬春篇(台) </span>
+</a>
+<span class="playable">[可播放]</span>
+</div><div class="bd">
+<p class="">
+                            导演: 森淳一 Junichi Mori   主演: 桥本爱 Ai Hashimoto / 三浦贵大 Takahir...<br/>
+                            2015 / 日本 / 剧情
+                        </p>
+<div class="star">
+<span class="rating45-t"></span>
+<span class="rating_num" property="v:average">9.0</span>
+<span content="10.0" property="v:best"></span>
+<span>248076人评价</span>
+</div>
+<p class="quote">
+<span class="inq">尊敬他人，尊敬你生活的这片土地，明白孤独是人生的常态。</span>
+</p>
+</div><div class="hd">
+<a class="" href="https://movie.douban.com/subject/1297052/">
+<span class="title">侧耳倾听</span>
+<span class="title"> / 耳をすませば</span>
+<span class="other"> / 心之谷(台)  /  梦幻街少女(港)</span>
+</a>
+<span class="playable">[可播放]</span>
+</div><div class="bd">
+<p class="">
+                            导演: 近藤喜文 Yoshifumi Kondo   主演: 本名阳子 Youko Honna / 小林桂树 K...<br/>
+                            1995 / 日本 / 剧情 爱情 动画
+                        </p>
+<div class="star">
+<span class="rating45-t"></span>
+<span class="rating_num" property="v:average">8.9</span>
+<span content="10.0" property="v:best"></span>
+<span>310464人评价</span>
+</div>
+<p class="quote">
+<span class="inq">少女情怀总是诗。</span>
+</p>
+</div><div class="hd">
+<a class="" href="https://movie.douban.com/subject/4268598/">
+<span class="title">告白</span>
+<span class="other"> / 自白  /  母亲</span>
+</a>
+</div><div class="bd">
+<p class="">
+                            导演: 中岛哲也 Tetsuya Nakashima   主演: 松隆子 Takako Matsu / 冈田将生 ...<br/>
+                            2010 / 日本 / 剧情 惊悚
+                        </p>
+<div class="star">
+<span class="rating45-t"></span>
+<span class="rating_num" property="v:average">8.7</span>
+<span content="10.0" property="v:best"></span>
+<span>523207人评价</span>
+</div>
+<p class="quote">
+<span class="inq">没有一人完全善，也没有一人完全恶。</span>
+</p>
+</div><div class="hd">
+<a class="" href="https://movie.douban.com/subject/1292434/">
+<span class="title">一一</span>
+<span class="other"> / Yi yi  /  Yi yi: A One and a Two</span>
+</a>
+</div><div class="bd">
+<p class="">
+                            导演: 杨德昌 Edward Yang   主演: 吴念真 / 李凯莉 Kelly Lee / 金燕玲 Elai...<br/>
+                            2000 / 中国台湾 日本 / 剧情 爱情 家庭
+                        </p>
+<div class="star">
+<span class="rating45-t"></span>
+<span class="rating_num" property="v:average">9.0</span>
+<span content="10.0" property="v:best"></span>
+<span>241323人评价</span>
+</div>
+<p class="quote">
+<span class="inq">我们都曾经是一一。</span>
+</p>
+</div><div class="hd">
+<a class="" href="https://movie.douban.com/subject/1291545/">
+<span class="title">大鱼</span>
+<span class="title"> / Big Fish</span>
+<span class="other"> / 大鱼奇缘(港)  /  大智若鱼(台)</span>
+</a>
+<span class="playable">[可播放]</span>
+</div><div class="bd">
+<p class="">
+                            导演: 蒂姆·波顿 Tim Burton   主演: 伊万·麦克格雷格 Ewan McGregor / 阿...<br/>
+                            2003 / 美国 / 剧情 家庭 奇幻 冒险
+                        </p>
+<div class="star">
+<span class="rating45-t"></span>
+<span class="rating_num" property="v:average">8.8</span>
+<span content="10.0" property="v:best"></span>
+<span>405229人评价</span>
+</div>
+<p class="quote">
+<span class="inq">抱着梦想而活着的人是幸福的，怀抱梦想而死去的人是不朽的。</span>
+</p>
+</div><div class="hd">
+<a class="" href="https://movie.douban.com/subject/4917726/">
+<span class="title">阳光姐妹淘</span>
+<span class="title"> / 써니</span>
+<span class="other"> / 阳光姊妹淘(港)  /  桑尼</span>
+</a>
+</div><div class="bd">
+<p class="">
+                            导演: 姜炯哲 Hyeong-Cheol Kang   主演: 沈恩京 Eun-kyung Shim / 闵孝琳 Hy...<br/>
+                            2011 / 韩国 / 剧情 喜剧
+                        </p>
+<div class="star">
+<span class="rating45-t"></span>
+<span class="rating_num" property="v:average">8.8</span>
+<span content="10.0" property="v:best"></span>
+<span>441144人评价</span>
+</div>
+<p class="quote">
+<span class="inq">再多各自牛逼的时光，也比不上一起傻逼的岁月。 </span>
+</p>
+</div><div class="hd">
+<a class="" href="https://movie.douban.com/subject/1306249/">
+<span class="title">唐伯虎点秋香</span>
+<span class="title"> / 唐伯虎點秋香</span>
+<span class="other"> / Flirting Scholar</span>
+</a>
+<span class="playable">[可播放]</span>
+</div><div class="bd">
+<p class="">
+                            导演: 李力持 Lik-Chi Lee   主演: 周星驰 Stephen Chow / 巩俐 Li Gong / 陈...<br/>
+                            1993 / 中国香港 / 喜剧 爱情 古装
+                        </p>
+<div class="star">
+<span class="rating45-t"></span>
+<span class="rating_num" property="v:average">8.6</span>
+<span content="10.0" property="v:best"></span>
+<span>689017人评价</span>
+</div>
+<p class="quote">
+<span class="inq">华太师是黄霑，吴镇宇四大才子之一。</span>
+</p>
+</div><div class="hd">
+<a class="" href="https://movie.douban.com/subject/3395373/">
+<span class="title">蝙蝠侠：黑暗骑士崛起</span>
+<span class="title"> / The Dark Knight Rises</span>
+<span class="other"> / 蝙蝠侠前传3：黑暗骑士崛起  /  黑暗骑士：黎明升起(台)</span>
+</a>
+<span class="playable">[可播放]</span>
+</div><div class="bd">
+<p class="">
+                            导演: 克里斯托弗·诺兰 Christopher Nolan   主演: 克里斯蒂安·贝尔 Christ...<br/>
+                            2012 / 美国 英国 / 剧情 动作 科幻 犯罪 惊悚
+                        </p>
+<div class="star">
+<span class="rating45-t"></span>
+<span class="rating_num" property="v:average">8.8</span>
+<span content="10.0" property="v:best"></span>
+<span>493400人评价</span>
+</div>
+<p class="quote">
+<span class="inq">诺兰就是保证。</span>
+</p>
+</div><div class="hd">
+<a class="" href="https://movie.douban.com/subject/1316510/">
+<span class="title">射雕英雄传之东成西就</span>
+<span class="title"> / 射鵰英雄傳之東成西就</span>
+<span class="other"> / 东成西就  /  大英雄 (日本)</span>
+</a>
+<span class="playable">[可播放]</span>
+</div><div class="bd">
+<p class="">
+                            导演: 刘镇伟 Jeffrey Lau   主演: 梁朝伟 Tony Leung Chiu Wai / 林青霞 Bri...<br/>
+                            1993 / 中国香港 / 喜剧 奇幻 武侠 古装
+                        </p>
+<div class="star">
+<span class="rating45-t"></span>
+<span class="rating_num" property="v:average">8.7</span>
+<span content="10.0" property="v:best"></span>
+<span>451443人评价</span>
+</div>
+<p class="quote">
+<span class="inq">百看不厌。 </span>
+</p>
+</div><div class="hd">
+<a class="" href="https://movie.douban.com/subject/1297447/">
+<span class="title">倩女幽魂</span>
+<span class="other"> / 倩女幽魂(87版)  /  倩女幽魂：妖魔道</span>
+</a>
+<span class="playable">[可播放]</span>
+</div><div class="bd">
+<p class="">
+                            导演: 程小东 Siu-Tung Ching   主演: 张国荣 Leslie Cheung / 王祖贤 Joey W...<br/>
+                            1987 / 中国香港 / 爱情 奇幻 武侠 古装
+                        </p>
+<div class="star">
+<span class="rating45-t"></span>
+<span class="rating_num" property="v:average">8.7</span>
+<span content="10.0" property="v:best"></span>
+<span>487837人评价</span>
+</div>
+<p class="quote">
+<span class="inq">两张绝世的脸。 </span>
+</p>
+</div><div class="hd">
+<a class="" href="https://movie.douban.com/subject/5322596/">
+<span class="title">超脱</span>
+<span class="title"> / Detachment</span>
+<span class="other"> / 人间师格(台)</span>
+</a>
+<span class="playable">[可播放]</span>
+</div><div class="bd">
+<p class="">
+                            导演: 托尼·凯耶 Tony Kaye   主演: 艾德里安·布洛迪 Adrien Brody / 马西...<br/>
+                            2011 / 美国 / 剧情
+                        </p>
+<div class="star">
+<span class="rating45-t"></span>
+<span class="rating_num" property="v:average">8.9</span>
+<span content="10.0" property="v:best"></span>
+<span>312019人评价</span>
+</div>
+<p class="quote">
+<span class="inq">穷尽一生，我们要学会的，不过是彼此拥抱。</span>
+</p>
+</div><div class="hd">
+<a class="" href="https://movie.douban.com/subject/1305164/">
+<span class="title">甜蜜蜜</span>
+<span class="other"> / Comrades: Almost a Love Story</span>
+</a>
+</div><div class="bd">
+<p class="">
+                            导演: 陈可辛 Peter Chan   主演: 黎明 Leon Lai / 张曼玉 Maggie Cheung / ...<br/>
+                            1996 / 中国香港 / 剧情 爱情
+                        </p>
+<div class="star">
+<span class="rating45-t"></span>
+<span class="rating_num" property="v:average">8.8</span>
+<span content="10.0" property="v:best"></span>
+<span>355055人评价</span>
+</div>
+<p class="quote">
+<span class="inq">相逢只要一瞬间，等待却像是一辈子。</span>
+</p>
+</div><div class="hd">
+<a class="" href="https://movie.douban.com/subject/2353023/">
+<span class="title">驯龙高手</span>
+<span class="title"> / How to Train Your Dragon</span>
+<span class="other"> / 驯龙记(港)</span>
+</a>
+<span class="playable">[可播放]</span>
+</div><div class="bd">
+<p class="">
+                            导演: 迪恩·德布洛斯 Dean DeBlois / 克里斯·桑德斯 Chris Sanders   主演:...<br/>
+                            2010 / 美国 / 动画 奇幻 冒险
+                        </p>
+<div class="star">
+<span class="rating45-t"></span>
+<span class="rating_num" property="v:average">8.7</span>
+<span content="10.0" property="v:best"></span>
+<span>523915人评价</span>
+</div>
+<p class="quote">
+<span class="inq">和谐的生活离不开摸头与被摸头。</span>
+</p>
+</div><div class="hd">
+<a class="" href="https://movie.douban.com/subject/5989818/">
+<span class="title">萤火之森</span>
+<span class="title"> / 蛍火の杜へ</span>
+<span class="other"> / 萤火之社  /  Hotarubi no mori e</span>
+</a>
+<span class="playable">[可播放]</span>
+</div><div class="bd">
+<p class="">
+                            导演: 大森贵弘 Takahiro Omori   主演: 佐仓绫音 Ayane Sakura / 内山昂辉 K...<br/>
+                            2011 / 日本 / 剧情 爱情 动画 奇幻
+                        </p>
+<div class="star">
+<span class="rating45-t"></span>
+<span class="rating_num" property="v:average">8.9</span>
+<span content="10.0" property="v:best"></span>
+<span>332038人评价</span>
+</div>
+<p class="quote">
+<span class="inq">触不到的恋人。</span>
+</p>
+</div>

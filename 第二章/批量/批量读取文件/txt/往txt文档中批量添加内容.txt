@@ -1,0 +1,34 @@
+
+import glob
+#获取当前目录movies文件夹下的所有.txt文件，命名为target_files，数据形式为数组
+target_files=glob.glob(pathname='./法律英语平行语料数据-陆晓蕾/*.txt')
+#新建data数组用来存放读进来的所有文件数据
+data = []
+#使用for循环遍历target_files中的所有文件，将每个文件的数据存入data数组，“r”代表只读，编码方式为“utf-8”
+#使用readlines()函数一次性读取文件中的所有行，并返回列表
+#使用extend()函数扩充数组
+
+for file_ in target_files:
+    #开头文字
+    head_str = ["本资料由陆晓蕾收集、整理","\n", ]
+    #结尾文字
+    tail_str = ["本资料由陆晓蕾收集、整理","\n"]
+    with open(file_,"r", encoding='utf-8') as f:
+        #读取单文件中的所有行，定义为lines
+        lines = f.readlines()
+        #以head_str为开头，并在开头文字后面添加文本内容lines，形成开头+内容结构的数组
+        head_str.extend(lines)
+        #使用extend()函数添加结尾文字，形成开头+内容+结尾的数组，并使用append()函数将开头+内容+结尾数组放入data数组中。
+        head_str.extend(tail_str)
+        data.append(head_str)
+#使用数字按序号给文件命名，初始值为1，在法律英语平行语料数据-陆晓蕾（整理后）路径下新建.txt文件，写入数据，批量写入文档
+i = 1
+for item in data:    
+    with open("./法律英语平行语料数据-陆晓蕾（整理后）/"+str(i)+".txt", "w", encoding="utf-8") as f:
+        f.writelines(item)
+        #经历循环之后，将i更新为i+1
+        i=i+1
+
+
+
+手动新建一个文件夹，命名为法律英语平行语料数据-陆晓蕾（整理后）

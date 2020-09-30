@@ -1,0 +1,45 @@
+<html>
+
+<head>
+<!-- 指定文档使用的字符编码 -->
+    <meta charset="utf-8">   
+    <style type="text/css">
+        body{
+            text-align: center
+        }
+        
+        p {
+            color: black;
+            font-size: 30px
+        }
+
+        button {
+            color: black;
+            font-size: 25px;
+            width: 100px;
+           
+        }
+    </style>
+    <title> demo
+    </title>
+</head>
+
+<body>
+    <!-- 指定该段的id为"demo"，方便后续的查找和调用 -->
+    <p id="demo">这是原文本</p>
+    <!-- 增加按钮，点击按钮调用函数 -->    
+    <button onclick="functiondemo()">点击</button> 
+</body>
+<script>
+        // 定义函数，函数的名称自定义为functiondemo
+        function functiondemo() {
+            /*** 
+            document指的是在文档内；
+            getElementById("demo")指的是找出前面已经指定的id为"demo"的元素；
+            innerHTML指的是HTML文内替换。
+            ***/   
+            document.getElementById("demo").innerHTML = "这是变换后的文本"
+            
+        }
+</script>
+</html>

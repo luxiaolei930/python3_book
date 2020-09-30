@@ -1,0 +1,512 @@
+<div class="hd">
+<a class="" href="https://movie.douban.com/subject/2213597/">
+<span class="title">朗读者</span>
+<span class="title"> / The Reader</span>
+<span class="other"> / 为爱朗读(台)  /  读爱(港)</span>
+</a>
+</div><div class="bd">
+<p class="">
+                            导演: 史蒂芬·戴德利 Stephen Daldry   主演: 凯特·温丝莱特 Kate Winslet ...<br/>
+                            2008 / 美国 德国 / 剧情 爱情
+                        </p>
+<div class="star">
+<span class="rating45-t"></span>
+<span class="rating_num" property="v:average">8.6</span>
+<span content="10.0" property="v:best"></span>
+<span>362342人评价</span>
+</div>
+<p class="quote">
+<span class="inq">当爱情跨越年龄的界限，它似乎能变得更久远一点，成为一种责任，一种水到渠成的相濡以沫。 </span>
+</p>
+</div><div class="hd">
+<a class="" href="https://movie.douban.com/subject/2297265/">
+<span class="title">浪潮</span>
+<span class="title"> / Die Welle</span>
+<span class="other"> / 恶魔教室(台)  /  白恤暴潮(港)</span>
+</a>
+</div><div class="bd">
+<p class="">
+                            导演: 丹尼斯·甘塞尔 Dennis Gansel   主演: 尤尔根·沃格尔 Jürgen Vogel ...<br/>
+                            2008 / 德国 / 剧情 惊悚
+                        </p>
+<div class="star">
+<span class="rating45-t"></span>
+<span class="rating_num" property="v:average">8.7</span>
+<span content="10.0" property="v:best"></span>
+<span>197056人评价</span>
+</div>
+<p class="quote">
+<span class="inq">世界离独裁只有五天。</span>
+</p>
+</div><div class="hd">
+<a class="" href="https://movie.douban.com/subject/1828115/">
+<span class="title">色，戒</span>
+<span class="other"> / 色|戒  /  色·戒</span>
+</a>
+</div><div class="bd">
+<p class="">
+                            导演: 李安 Ang Lee   主演: 梁朝伟 Tony Leung Chiu Wai / 汤唯 Wei Tang / ...<br/>
+                            2007 / 中国台湾 中国大陆 美国 中国香港 / 剧情 爱情 情色
+                        </p>
+<div class="star">
+<span class="rating4-t"></span>
+<span class="rating_num" property="v:average">8.4</span>
+<span content="10.0" property="v:best"></span>
+<span>459405人评价</span>
+</div>
+<p class="quote">
+<span class="inq">假戏真情，爱欲深海</span>
+</p>
+</div><div class="hd">
+<a class="" href="https://movie.douban.com/subject/25807345/">
+<span class="title">彗星来的那一夜</span>
+<span class="title"> / Coherence</span>
+<span class="other"> / 相干性  /  相干效应</span>
+</a>
+<span class="playable">[可播放]</span>
+</div><div class="bd">
+<p class="">
+                            导演: 詹姆斯·沃德·布柯特 James Ward Byrkit   主演: 艾米丽·芭尔多尼 Em...<br/>
+                            2013 / 美国 英国 / 科幻 悬疑 惊悚
+                        </p>
+<div class="star">
+<span class="rating45-t"></span>
+<span class="rating_num" property="v:average">8.5</span>
+<span content="10.0" property="v:best"></span>
+<span>342820人评价</span>
+</div>
+<p class="quote">
+<span class="inq">小成本大魅力。</span>
+</p>
+</div><div class="hd">
+<a class="" href="https://movie.douban.com/subject/1867345/">
+<span class="title">遗愿清单</span>
+<span class="title"> / The Bucket List</span>
+<span class="other"> / 玩转身前事(港)  /  一路玩到挂(台)</span>
+</a>
+<span class="playable">[可播放]</span>
+</div><div class="bd">
+<p class="">
+                            导演: 罗伯·莱纳 Rob Reiner   主演: 杰克·尼科尔森 Jack Nicholson / 摩根...<br/>
+                            2007 / 美国 / 冒险 喜剧 剧情
+                        </p>
+<div class="star">
+<span class="rating45-t"></span>
+<span class="rating_num" property="v:average">8.6</span>
+<span content="10.0" property="v:best"></span>
+<span>249488人评价</span>
+</div>
+<p class="quote">
+<span class="inq">用剩余不多的时间，去燃烧整个生命。</span>
+</p>
+</div><div class="hd">
+<a class="" href="https://movie.douban.com/subject/3592854/">
+<span class="title">疯狂的麦克斯4：狂暴之路</span>
+<span class="title"> / Mad Max: Fury Road</span>
+<span class="other"> / 末日先锋：战甲飞车(港)  /  疯狂麦斯：愤怒道(台)</span>
+</a>
+<span class="playable">[可播放]</span>
+</div><div class="bd">
+<p class="">
+                            导演: 乔治·米勒 George Miller   主演: 汤姆·哈迪 Tom Hardy / 查理兹·塞...<br/>
+                            2015 / 澳大利亚 美国 / 动作 科幻 冒险
+                        </p>
+<div class="star">
+<span class="rating45-t"></span>
+<span class="rating_num" property="v:average">8.6</span>
+<span content="10.0" property="v:best"></span>
+<span>354430人评价</span>
+</div>
+<p class="quote">
+<span class="inq">“多么美好的一天！”轰轰轰砰咚，啪哒哒哒轰隆隆，磅~</span>
+</p>
+</div><div class="hd">
+<a class="" href="https://movie.douban.com/subject/27059130/">
+<span class="title">大佛普拉斯</span>
+<span class="other"> / The Great Buddha+</span>
+</a>
+</div><div class="bd">
+<p class="">
+                            导演: 黄信尧 Hsin-yao Huang   主演: 庄益增 Yizeng Zhuang / 陈竹昇 Chu-sh...<br/>
+                            2017 / 中国台湾 / 剧情 喜剧 犯罪
+                        </p>
+<div class="star">
+<span class="rating45-t"></span>
+<span class="rating_num" property="v:average">8.7</span>
+<span content="10.0" property="v:best"></span>
+<span>256110人评价</span>
+</div>
+<p class="quote">
+<span class="inq">人们可以登上月球，却永远无法探索人们内心的宇宙。</span>
+</p>
+</div><div class="hd">
+<a class="" href="https://movie.douban.com/subject/2222996/">
+<span class="title">步履不停</span>
+<span class="title"> / 歩いても 歩いても</span>
+<span class="other"> / 横山家之味(港 / 台) </span>
+</a>
+<span class="playable">[可播放]</span>
+</div><div class="bd">
+<p class="">
+                            导演: 是枝裕和 Hirokazu Koreeda   主演: 阿部宽 Hiroshi Abe / 夏川结衣 Yu...<br/>
+                            2008 / 日本 / 剧情 家庭
+                        </p>
+<div class="star">
+<span class="rating45-t"></span>
+<span class="rating_num" property="v:average">8.8</span>
+<span content="10.0" property="v:best"></span>
+<span>171994人评价</span>
+</div>
+<p class="quote">
+<span class="inq">日本的家庭电影已经是世界巅峰了，步履不停是巅峰中的佳作。</span>
+</p>
+</div><div class="hd">
+<a class="" href="https://movie.douban.com/subject/26393561/">
+<span class="title">小萝莉的猴神大叔</span>
+<span class="title"> / Bajrangi Bhaijaan</span>
+<span class="other"> / 娃娃返乡任务(台)  /  宝莱坞之钢铁奶爸(台)</span>
+</a>
+<span class="playable">[可播放]</span>
+</div><div class="bd">
+<p class="">
+                            导演: 卡比尔·汗 Kabir Khan   主演: 萨尔曼·汗 Salman Khan / 哈莎莉·马...<br/>
+                            2015 / 印度 / 剧情 喜剧 动作
+                        </p>
+<div class="star">
+<span class="rating4-t"></span>
+<span class="rating_num" property="v:average">8.4</span>
+<span content="10.0" property="v:best"></span>
+<span>338242人评价</span>
+</div>
+<p class="quote">
+<span class="inq">宝莱坞的萝莉与大叔。</span>
+</p>
+</div><div class="hd">
+<a class="" href="https://movie.douban.com/subject/6874403/">
+<span class="title">再次出发之纽约遇见你</span>
+<span class="title"> / Begin Again</span>
+<span class="other"> / 再次出发  /  歌曲改变人生</span>
+</a>
+<span class="playable">[可播放]</span>
+</div><div class="bd">
+<p class="">
+                            导演: 约翰·卡尼 John Carney   主演: 凯拉·奈特莉 Keira Knightley / 马克...<br/>
+                            2013 / 美国 / 喜剧 爱情 音乐
+                        </p>
+<div class="star">
+<span class="rating45-t"></span>
+<span class="rating_num" property="v:average">8.5</span>
+<span content="10.0" property="v:best"></span>
+<span>290185人评价</span>
+</div>
+<p class="quote">
+<span class="inq">爱我就给我看你的播放列表。</span>
+</p>
+</div><div class="hd">
+<a class="" href="https://movie.douban.com/subject/25954475/">
+<span class="title">聚焦</span>
+<span class="title"> / Spotlight</span>
+<span class="other"> / 焦点追击(港)  /  惊爆焦点(台)</span>
+</a>
+<span class="playable">[可播放]</span>
+</div><div class="bd">
+<p class="">
+                            导演: 托马斯·麦卡锡 Thomas McCarthy   主演: 马克·鲁弗洛 Mark Ruffalo /...<br/>
+                            2015 / 美国 / 剧情 传记
+                        </p>
+<div class="star">
+<span class="rating45-t"></span>
+<span class="rating_num" property="v:average">8.8</span>
+<span content="10.0" property="v:best"></span>
+<span>201741人评价</span>
+</div>
+<p class="quote">
+<span class="inq">新闻人的理性求真。</span>
+</p>
+</div><div class="hd">
+<a class="" href="https://movie.douban.com/subject/1397546/">
+<span class="title">追随</span>
+<span class="title"> / Following</span>
+<span class="other"> / 跟踪(台)  /  致命追踪</span>
+</a>
+</div><div class="bd">
+<p class="">
+                            导演: 克里斯托弗·诺兰 Christopher Nolan   主演: 杰里米·西奥伯德 Jeremy...<br/>
+                            1998 / 英国 / 犯罪 悬疑 惊悚
+                        </p>
+<div class="star">
+<span class="rating45-t"></span>
+<span class="rating_num" property="v:average">8.9</span>
+<span content="10.0" property="v:best"></span>
+<span>126629人评价</span>
+</div>
+<p class="quote">
+<span class="inq">诺兰的牛逼来源于内心散发出的恐惧。</span>
+</p>
+</div><div class="hd">
+<a class="" href="https://movie.douban.com/subject/1291568/">
+<span class="title">东京物语</span>
+<span class="title"> / 東京物語</span>
+<span class="other"> / 东京故事  /  Tokyo Story</span>
+</a>
+<span class="playable">[可播放]</span>
+</div><div class="bd">
+<p class="">
+                            导演: 小津安二郎 Yasujirô Ozu   主演: 笠智众 Chishû Ryû / 原节...<br/>
+                            1953 / 日本 / 剧情 家庭
+                        </p>
+<div class="star">
+<span class="rating45-t"></span>
+<span class="rating_num" property="v:average">9.2</span>
+<span content="10.0" property="v:best"></span>
+<span>87076人评价</span>
+</div>
+<p class="quote">
+<span class="inq">东京那么大，如果有一天走失了，恐怕一辈子不能再相见。</span>
+</p>
+</div><div class="hd">
+<a class="" href="https://movie.douban.com/subject/25921812/">
+<span class="title">驴得水</span>
+<span class="other"> / Mr. Donkey</span>
+</a>
+<span class="playable">[可播放]</span>
+</div><div class="bd">
+<p class="">
+                            导演: 周申 Shen Zhou / 刘露 Lu Liu   主演: 任素汐 Suxi Ren / 大力 Da Li ...<br/>
+                            2016 / 中国大陆 / 剧情 喜剧
+                        </p>
+<div class="star">
+<span class="rating4-t"></span>
+<span class="rating_num" property="v:average">8.3</span>
+<span content="10.0" property="v:best"></span>
+<span>634136人评价</span>
+</div>
+<p class="quote">
+<span class="inq">过去的如果就让它过去了，未来只会越来越糟！</span>
+</p>
+</div><div class="hd">
+<a class="" href="https://movie.douban.com/subject/5964718/">
+<span class="title">一次别离</span>
+<span class="title"> / جدایی نادر از سیمین</span>
+<span class="other"> / 分居风暴(台)  /  伊朗式分居(港)</span>
+</a>
+<span class="playable">[可播放]</span>
+</div><div class="bd">
+<p class="">
+                            导演: 阿斯哈·法哈蒂  Asghar Farhadi   主演: 佩曼·莫阿迪 Peyman Moadi /...<br/>
+                            2011 / 伊朗 法国 / 剧情 家庭
+                        </p>
+<div class="star">
+<span class="rating45-t"></span>
+<span class="rating_num" property="v:average">8.7</span>
+<span content="10.0" property="v:best"></span>
+<span>190750人评价</span>
+</div>
+<p class="quote">
+<span class="inq">只有有信仰的人才能说出事实真相。</span>
+</p>
+</div><div class="hd">
+<a class="" href="https://movie.douban.com/subject/1291824/">
+<span class="title">黑鹰坠落</span>
+<span class="title"> / Black Hawk Down</span>
+<span class="other"> / 黑鹰15小时(港)  /  黑鹰计划(台)</span>
+</a>
+<span class="playable">[可播放]</span>
+</div><div class="bd">
+<p class="">
+                            导演: 雷德利·斯科特 Ridley Scott   主演: 乔什·哈奈特 Josh Hartnett / ...<br/>
+                            2001 / 美国 / 动作 历史 战争
+                        </p>
+<div class="star">
+<span class="rating45-t"></span>
+<span class="rating_num" property="v:average">8.7</span>
+<span content="10.0" property="v:best"></span>
+<span>201494人评价</span>
+</div>
+<p class="quote">
+<span class="inq">还原真实而残酷的战争。</span>
+</p>
+</div><div class="hd">
+<a class="" href="https://movie.douban.com/subject/1300117/">
+<span class="title">千钧一发</span>
+<span class="title"> / Gattaca</span>
+<span class="other"> / 变种异煞  /  自然人</span>
+</a>
+<span class="playable">[可播放]</span>
+</div><div class="bd">
+<p class="">
+                            导演: 安德鲁·尼科尔 Andrew Niccol   主演: 伊桑·霍克 Ethan Hawke / 乌玛...<br/>
+                            1997 / 美国 / 剧情 科幻 惊悚
+                        </p>
+<div class="star">
+<span class="rating45-t"></span>
+<span class="rating_num" property="v:average">8.8</span>
+<span content="10.0" property="v:best"></span>
+<span>163810人评价</span>
+</div>
+<p class="quote">
+<span class="inq">一部能引人思考的科幻励志片。</span>
+</p>
+</div><div class="hd">
+<a class="" href="https://movie.douban.com/subject/5908478/">
+<span class="title">我爱你</span>
+<span class="title"> / 그대를 사랑합니다</span>
+<span class="other"> / 爱你  /  爱，是一生相伴(台)</span>
+</a>
+<span class="playable">[可播放]</span>
+</div><div class="bd">
+<p class="">
+                            导演: 秋昌民 Chang-min Choo   主演: 宋在河 Jae-ho Song / 李顺载 Soon-jae...<br/>
+                            2011 / 韩国 / 剧情 爱情
+                        </p>
+<div class="star">
+<span class="rating45-t"></span>
+<span class="rating_num" property="v:average">9.0</span>
+<span content="10.0" property="v:best"></span>
+<span>104112人评价</span>
+</div>
+<p class="quote">
+<span class="inq">你要相信，这世上真的有爱存在，不管在什么年纪 </span>
+</p>
+</div><div class="hd">
+<a class="" href="https://movie.douban.com/subject/1292233/">
+<span class="title">发条橙</span>
+<span class="title"> / A Clockwork Orange</span>
+<span class="other"> / 发条桔子  /  发条橙子</span>
+</a>
+</div><div class="bd">
+<p class="">
+                            导演: Stanley Kubrick   主演: Malcolm McDowell / Patrick Magee / Michael...<br/>
+                            1971 / 英国 美国 / 犯罪 剧情 科幻
+                        </p>
+<div class="star">
+<span class="rating45-t"></span>
+<span class="rating_num" property="v:average">8.5</span>
+<span content="10.0" property="v:best"></span>
+<span>272603人评价</span>
+</div>
+<p class="quote">
+<span class="inq">我完全康复了。</span>
+</p>
+</div><div class="hd">
+<a class="" href="https://movie.douban.com/subject/27191492/">
+<span class="title">四个春天</span>
+<span class="other"> / Four Springs</span>
+</a>
+<span class="playable">[可播放]</span>
+</div><div class="bd">
+<p class="">
+                            导演: 陆庆屹 Lu Qing Yi   主演: 陆运坤 Yunkun Lu / 李桂贤 Guixian Li / ...<br/>
+                            2017 / 中国大陆 / 纪录片 家庭
+                        </p>
+<div class="star">
+<span class="rating45-t"></span>
+<span class="rating_num" property="v:average">8.9</span>
+<span content="10.0" property="v:best"></span>
+<span>112259人评价</span>
+</div>
+<p class="quote">
+<span class="inq">来也匆匆去也匆匆，就这样风雨兼程。</span>
+</p>
+</div><div class="hd">
+<a class="" href="https://movie.douban.com/subject/27615441/">
+<span class="title">网络谜踪</span>
+<span class="title"> / Searching</span>
+<span class="other"> / 人肉搜寻(港)  /  人肉搜索(台)</span>
+</a>
+<span class="playable">[可播放]</span>
+</div><div class="bd">
+<p class="">
+                            导演: 阿尼什·查甘蒂 Aneesh Chaganty   主演: 约翰·赵 John Cho / 米切尔...<br/>
+                            2018 / 美国 俄罗斯 / 剧情 犯罪 悬疑 惊悚
+                        </p>
+<div class="star">
+<span class="rating45-t"></span>
+<span class="rating_num" property="v:average">8.6</span>
+<span content="10.0" property="v:best"></span>
+<span>365255人评价</span>
+</div>
+</div><div class="hd">
+<a class="" href="https://movie.douban.com/subject/1294638/">
+<span class="title">E.T. 外星人</span>
+<span class="title"> / E.T.: The Extra-Terrestrial</span>
+<span class="other"> / 外星人E.T.  /  外星人</span>
+</a>
+<span class="playable">[可播放]</span>
+</div><div class="bd">
+<p class="">
+                            导演: 史蒂文·斯皮尔伯格 Steven Spielberg   主演: 亨利·托马斯 Henry Tho...<br/>
+                            1982 / 美国 / 剧情 科幻
+                        </p>
+<div class="star">
+<span class="rating45-t"></span>
+<span class="rating_num" property="v:average">8.6</span>
+<span content="10.0" property="v:best"></span>
+<span>249160人评价</span>
+</div>
+<p class="quote">
+<span class="inq">生病的E.T.皮肤的颜色就像柿子饼。</span>
+</p>
+</div><div class="hd">
+<a class="" href="https://movie.douban.com/subject/1388216/">
+<span class="title">撞车</span>
+<span class="title"> / Crash</span>
+<span class="other"> / 冲击效应  /  冲撞</span>
+</a>
+<span class="playable">[可播放]</span>
+</div><div class="bd">
+<p class="">
+                            导演: 保罗·哈吉斯 Paul Haggis   主演: 桑德拉·布洛克 Sandra Bullock / ...<br/>
+                            2004 / 美国 德国 / 犯罪 剧情
+                        </p>
+<div class="star">
+<span class="rating45-t"></span>
+<span class="rating_num" property="v:average">8.6</span>
+<span content="10.0" property="v:best"></span>
+<span>244428人评价</span>
+</div>
+<p class="quote">
+<span class="inq">天使与魔鬼的冲撞。</span>
+</p>
+</div><div class="hd">
+<a class="" href="https://movie.douban.com/subject/1292659/">
+<span class="title">变脸</span>
+<span class="title"> / Face/Off</span>
+<span class="other"> / 夺面双雄  /  夺命双雄</span>
+</a>
+<span class="playable">[可播放]</span>
+</div><div class="bd">
+<p class="">
+                            导演: 吴宇森 John Woo   主演: 约翰·特拉沃尔塔 John Travolta / 尼古拉斯...<br/>
+                            1997 / 美国 / 动作 科幻 犯罪 惊悚
+                        </p>
+<div class="star">
+<span class="rating45-t"></span>
+<span class="rating_num" property="v:average">8.5</span>
+<span content="10.0" property="v:best"></span>
+<span>310178人评价</span>
+</div>
+<p class="quote">
+<span class="inq">当发哥的风衣、墨镜出现在了凯奇身上⋯⋯</span>
+</p>
+</div><div class="hd">
+<a class="" href="https://movie.douban.com/subject/1292270/">
+<span class="title">梦之安魂曲</span>
+<span class="title"> / Requiem for a Dream</span>
+<span class="other"> / 噩梦挽歌(台)  /  迷上瘾(港)</span>
+</a>
+</div><div class="bd">
+<p class="">
+                            导演: 达伦·阿伦诺夫斯基 Darren Aronofsky   主演: 艾伦·伯斯汀 Ellen Bur...<br/>
+                            2000 / 美国 / 剧情
+                        </p>
+<div class="star">
+<span class="rating45-t"></span>
+<span class="rating_num" property="v:average">8.7</span>
+<span content="10.0" property="v:best"></span>
+<span>160198人评价</span>
+</div>
+<p class="quote">
+<span class="inq">一场没有春天的噩梦。</span>
+</p>
+</div>
