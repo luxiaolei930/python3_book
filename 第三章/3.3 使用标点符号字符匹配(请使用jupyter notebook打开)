@@ -1,0 +1,350 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 12,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#定义需要处理的源文本为source_text\n",
+    "source_text = \"本解释施行后，案件尚在一审或者二审阶段的，适用本解释；本解释施行前已经终审，当事人申请再审或者按照审判监督程序决定再审的案件，不适用本解释。\"\n",
+    "\n",
+    "#将中文标点符号建为一个列表，将其命名为punctuation\n",
+    "punctuation = ['–', '—', '‘', '’', '“', '”',\n",
+    "               '…', '、', '。', '〈', '〉', '《',\n",
+    "               '》', '「', '」', '『', '』', '【',\n",
+    "               '】', '〔', '〕', '！', '（', '）',\n",
+    "               '，', '．', '：', '；', '?']\n",
+    "#建立一个列表\n",
+    "target_text = []\n",
+    "#使用for循环\n",
+    "for word in source_text:\n",
+    "    #如果没有在punctuation列表里，就使用append()函数将其添加进target_text()里\n",
+    "    if word not in punctuation:\n",
+    "        target_text.append(word)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 11,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "['本',\n",
+       " '解',\n",
+       " '释',\n",
+       " '施',\n",
+       " '行',\n",
+       " '后',\n",
+       " '案',\n",
+       " '件',\n",
+       " '尚',\n",
+       " '在',\n",
+       " '一',\n",
+       " '审',\n",
+       " '或',\n",
+       " '者',\n",
+       " '二',\n",
+       " '审',\n",
+       " '阶',\n",
+       " '段',\n",
+       " '的',\n",
+       " '适',\n",
+       " '用',\n",
+       " '本',\n",
+       " '解',\n",
+       " '释',\n",
+       " '本',\n",
+       " '解',\n",
+       " '释',\n",
+       " '施',\n",
+       " '行',\n",
+       " '前',\n",
+       " '已',\n",
+       " '经',\n",
+       " '终',\n",
+       " '审',\n",
+       " '当',\n",
+       " '事',\n",
+       " '人',\n",
+       " '申',\n",
+       " '请',\n",
+       " '再',\n",
+       " '审',\n",
+       " '或',\n",
+       " '者',\n",
+       " '按',\n",
+       " '照',\n",
+       " '审',\n",
+       " '判',\n",
+       " '监',\n",
+       " '督',\n",
+       " '程',\n",
+       " '序',\n",
+       " '决',\n",
+       " '定',\n",
+       " '再',\n",
+       " '审',\n",
+       " '的',\n",
+       " '案',\n",
+       " '件',\n",
+       " '不',\n",
+       " '适',\n",
+       " '用',\n",
+       " '本',\n",
+       " '解',\n",
+       " '释']"
+      ]
+     },
+     "execution_count": 11,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "target_text"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 23,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "['本', '解', '释', '施', '行', '后', '案', '件', '尚', '在', '一', '审', '或', '者', '二', '审', '阶', '段', '的', '适', '用', '本', '解', '释', '本', '解', '释', '施', '行', '前', '已', '经', '终', '审', '当', '事', '人', '申', '请', '再', '审', '或', '者', '按', '照', '审', '判', '监', '督', '程', '序', '决', '定', '再', '审', '的', '案', '件', '不', '适', '用', '本', '解', '释']\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(target_text)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 10,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "['本',\n",
+       " '解',\n",
+       " '释',\n",
+       " '施',\n",
+       " '行',\n",
+       " '后',\n",
+       " '案',\n",
+       " '件',\n",
+       " '尚',\n",
+       " '在',\n",
+       " '一',\n",
+       " '审',\n",
+       " '或',\n",
+       " '者',\n",
+       " '二',\n",
+       " '审',\n",
+       " '阶',\n",
+       " '段',\n",
+       " '的',\n",
+       " '适',\n",
+       " '用',\n",
+       " '本',\n",
+       " '解',\n",
+       " '释',\n",
+       " '本',\n",
+       " '解',\n",
+       " '释',\n",
+       " '施',\n",
+       " '行',\n",
+       " '前',\n",
+       " '已',\n",
+       " '经',\n",
+       " '终',\n",
+       " '审',\n",
+       " '当',\n",
+       " '事',\n",
+       " '人',\n",
+       " '申',\n",
+       " '请',\n",
+       " '再',\n",
+       " '审',\n",
+       " '或',\n",
+       " '者',\n",
+       " '按',\n",
+       " '照',\n",
+       " '审',\n",
+       " '判',\n",
+       " '监',\n",
+       " '督',\n",
+       " '程',\n",
+       " '序',\n",
+       " '决',\n",
+       " '定',\n",
+       " '再',\n",
+       " '审',\n",
+       " '的',\n",
+       " '案',\n",
+       " '件',\n",
+       " '不',\n",
+       " '适',\n",
+       " '用',\n",
+       " '本',\n",
+       " '解',\n",
+       " '释']"
+      ]
+     },
+     "execution_count": 10,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 15,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "'本.解.释.施.行.后.案.件.尚.在.一.审.或.者.二.审.阶.段.的.适.用.本.解.释.本.解.释.施.行.前.已.经.终.审.当.事.人.申.请.再.审.或.者.按.照.审.判.监.督.程.序.决.定.再.审.的.案.件.不.适.用.本.解.释'"
+      ]
+     },
+     "execution_count": 15,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "\".\".join(target_text)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 21,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "'本解释施行后案件尚在一审或者二审阶段的适用本解释本解释施行前已经终审当事人申请再审或者按照审判监督程序决定再审的案件不适用本解释'"
+      ]
+     },
+     "execution_count": 21,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "\"\".join(target_text)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 17,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "'本-解-释-施-行-后-案-件-尚-在-一-审-或-者-二-审-阶-段-的-适-用-本-解-释-本-解-释-施-行-前-已-经-终-审-当-事-人-申-请-再-审-或-者-按-照-审-判-监-督-程-序-决-定-再-审-的-案-件-不-适-用-本-解-释'"
+      ]
+     },
+     "execution_count": 17,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "\"-\".join(target_text)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 22,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "'本 解 释 施 行 后 案 件 尚 在 一 审 或 者 二 审 阶 段 的 适 用 本 解 释 本 解 释 施 行 前 已 经 终 审 当 事 人 申 请 再 审 或 者 按 照 审 判 监 督 程 序 决 定 再 审 的 案 件 不 适 用 本 解 释'"
+      ]
+     },
+     "execution_count": 22,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "\" \".join(target_text)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 19,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "'本的解的释的施的行的后的案的件的尚的在的一的审的或的者的二的审的阶的段的的的适的用的本的解的释的本的解的释的施的行的前的已的经的终的审的当的事的人的申的请的再的审的或的者的按的照的审的判的监的督的程的序的决的定的再的审的的的案的件的不的适的用的本的解的释'"
+      ]
+     },
+     "execution_count": 19,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "\"的\".join(target_text)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 20,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "'本LXL解LXL释LXL施LXL行LXL后LXL案LXL件LXL尚LXL在LXL一LXL审LXL或LXL者LXL二LXL审LXL阶LXL段LXL的LXL适LXL用LXL本LXL解LXL释LXL本LXL解LXL释LXL施LXL行LXL前LXL已LXL经LXL终LXL审LXL当LXL事LXL人LXL申LXL请LXL再LXL审LXL或LXL者LXL按LXL照LXL审LXL判LXL监LXL督LXL程LXL序LXL决LXL定LXL再LXL审LXL的LXL案LXL件LXL不LXL适LXL用LXL本LXL解LXL释'"
+      ]
+     },
+     "execution_count": 20,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "\"LXL\".join(target_text)"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.6.8"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
+}
