@@ -1,5 +1,5 @@
 
 function functiondemo() {
-        document.getElementById("demo").innerHTML = "哈哈，交互实现啦"
+        document.getElementById("demo").innerHTML = "这是变换后的文本"
 
 }
